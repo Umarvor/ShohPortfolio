@@ -37,7 +37,7 @@ export default function Footer() {
 
 
                     </article>
-                    <p className='footer-copyright'>© 2024 ShohinurPortfolio. Barcha huquqlar himoyalangan.</p>
+                    <p className='footer-copyright'>© 2025 ShohinurPortfolio. Barcha huquqlar himoyalangan.</p>
                 </div>
                 <div className="footer-contact">
                     <br />
